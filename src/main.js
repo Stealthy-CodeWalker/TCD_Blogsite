@@ -6,7 +6,7 @@ import Blogview from "./components/blogview.vue";
 import Blogpage from "./components/blogpage.vue";
 
 const router =  VueRouter.createRouter({
-    history: VueRouter.createWebHistory(),
+    history: VueRouter.createWebHashHistory(),
   routes: [
     {path: '/', component: Blogview},
     {path:'/blogpage',component: Blogpage}
