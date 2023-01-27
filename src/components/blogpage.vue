@@ -8,7 +8,7 @@
         <div class="">
             <img src="https://i.ytimg.com/vi/yd_3_1kYnNc/maxresdefault.jpg" alt="Snake Eater" width="720px"/>
         </div>
-        <div class="ml-40 mr-40 mt-4">
+        <div class="ml-40 mr-40 mt-4 text-justify">
             <p>
                 The major theme in Metal Gear Solid 3 is "Scene", the climate in which events occur and the impact it has upon them. This contrasts with the "Gene" and "Meme" themes of Metal Gear Solid and Metal Gear Solid 2, respectively. Scene deals heavily with cultural relativism, the idea that concepts such as right and wrong or allies and enemies are not absolute or eternal; but instead are personal and transitive, shaped by our cultures and the "times" we live in.
 
